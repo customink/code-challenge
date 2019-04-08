@@ -14,3 +14,11 @@ Kompletni cesta: DDDRRURDRD
 Vstupni cesta: DRDR--RRDDD-
 Kompletni cesta: DRDRUURRDDDD
 ```
+
+## Vypracovani a odevzdani
+
+Tento repozitář je připraven pro řešení problémů v `javascript` (Node.js) prostředí. V souboru `index.js` je připravená metoda `completePath`, kterou je potřebné implementovat podle zadání. Celý porgram pak můžeš pustit v konzoli voláním `yarn start`.
+
+Řešení ale také přijímáme v libovolném jazyky, ve ktrerem se ti pracuje pohodlně.
+
+Své řešení nám pak můžeš nahrát prostřednictvím formuláře na http://represent.com/code-challenge.
