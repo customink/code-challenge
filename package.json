@@ -1,0 +1,9 @@
+{
+  "name": "code-challenge",
+  "description": "Represent code challenge",
+  "author": "Represent",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
